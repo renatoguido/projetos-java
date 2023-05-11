@@ -1,0 +1,14 @@
+[
+=========PRODUTO CADASTRADO=========
+Produto: dxdads
+Codigo: 1605
+Marca: dcds
+Cor: cdsc
+Tela: 2.0 Polegadas
+Tipo de tela: sdcs
+Armazenamto: 2GB
+Memoria RAM: 2GB
+Valor: R$23.0
+Descrição do produto: cddc
+==================================================
+]
